@@ -4,4 +4,3 @@
     তিনি পড়াশুনা করেছিলেন **MIT** ( Massachusetts Institute of Technology ) থেকে ।শেষ বয়সে এসে তিনি **Stanford University** -  এ প্রফেসর হিসেবে যোগদান করেন । 
     
 ##  সুপারভাইসড ও আনসুপারভাইসড লার্নিং ( Supervised and Unsupervised Learning )
-* ![Hello Pic](/assets/images/one/super.png)
