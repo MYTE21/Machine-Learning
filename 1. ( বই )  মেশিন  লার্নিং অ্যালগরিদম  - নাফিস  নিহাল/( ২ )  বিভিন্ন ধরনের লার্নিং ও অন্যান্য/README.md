@@ -5,10 +5,10 @@
     
 ##  সুপারভাইসড ও আনসুপারভাইসড লার্নিং ( Supervised and Unsupervised Learning )
 ![Machine Learning](/assets/images/two/mi.png "Kinds of MI")
-> **Machine Learning -**
-> 1. **Supervised Learning**
->   1. **Classification Problem**
->   2. **Regression Problem**
-> 2. **Unsupervised Learning**
->   1. **Clustering Problem**
-> 3. **Reinforcement Learning**
+**Machine Learning -**
+1. **Supervised Learning**
+    1. **Classification Problem**
+    2. **Regression Problem**
+ 2. **Unsupervised Learning**
+    1. **Clustering Problem**
+ 3. **Reinforcement Learning**
