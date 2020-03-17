@@ -1,6 +1,6 @@
 # Machine-Learning
 
-![Goku - Dragon Ball](/assets/images/project_image.png "Goku - Dragon Ball")
+![Goku - Dragon Ball](/assets/images/main_project/project_image.png "Goku - Dragon Ball")
 
 > Imagination is more important then knowledge - **Albert Einstein** , physicist.
 
